@@ -9,17 +9,17 @@ header:
   image_fullwidth: colorheader2.jpg
 widget1:
   title: "The Project"
-  url: 'http://cmdrkerfy.github.io/indvol/project/'
+  url: 'https://volcanomapping.github.io/project/'
   image: puzzle_thumb.png
   text: 'Find out the impact missing infrastructure data has on humanitarian responses.'
 widget2:
   title: "What is OpenStreetMap?"
   url: 'http://www.openstreetmap.org/'
   image: osm_thumb.png
-  text: 'OpenStreetMap is an openly licensed map of the world created and maintained by volunteers using local knowledge, GPS tracks, and remote mapping techniques.'
+  text: 'An openly licensed map of the world created and maintained by volunteers using local knowledge, and remote mapping techniques. Click "More" to be redirected to OpenStreetMap.'
 widget3:
   title: "Current Task"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'https://volcanomapping.github.io/current/'
   text: 'Click here to find out how which volcano is currently being mapped.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="/images/usgs_thumb.png" width="302" height="182" alt=""/></a>'
   
