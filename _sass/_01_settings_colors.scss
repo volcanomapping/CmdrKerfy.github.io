@@ -27,11 +27,12 @@ $body-bg: 			#fdfdfd;
 ------------------------------------------------------------------- */
 
 $ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
+$ci-2: #FFFFFF;		// white
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
+$ci-6: #CCCCCC;     // gray
+$ci-7: #99CCFF;		// blue
 
 
 
@@ -112,7 +113,7 @@ $footer-color: #fff;
 $footer-link-color: $ci-6;
 
 
-$subfooter-bg: $grey-13;
+$subfooter-bg: #fff;
 $subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
