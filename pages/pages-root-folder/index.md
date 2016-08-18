@@ -34,7 +34,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://volcanomapping.github.io/collaboration/ongoing/
   text: CLICK HERE TO SEE THE ONGOING WORK ›
   style: alert
 permalink: /index.html
