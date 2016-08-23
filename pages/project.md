@@ -13,7 +13,7 @@ header:
     title: OpenStreetMap Data Creation
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
-    image_fullwidth: colorheader.jpg
+    image_fullwidth: header_roadmap_2.jpg
 ---
 
 
